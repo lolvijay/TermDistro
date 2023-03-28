@@ -1,5 +1,5 @@
 import time, os, sys
-# Coded by github.com/singhvijayp
+# Coded by github.com/vsin9h
 # Copy with credits
 
 # code
@@ -21,10 +21,10 @@ time.sleep(2)
 os.system("clear")
 
 print (R+"""
-     ____ _  _ ___  ____ ____ ___  _ ____ ___ ____ ____
-     |__| |\ | |  \ |__/ |  | |  \ | [__   |  |__/ |  | 
-     |  | | \| |__/ |  \ |__| |__/ | ___]  |  |  \ |__|
-                 """+G+"""   Developer: @imvps """)
+     .___..___.__ .  ..__ ._. __..___..__ .__.
+       |  [__ [__)|\/||  \ | (__   |  [__)|  |
+       |  [___|  \|  ||__/_|_.__)  |  |  \|__|
+                 """+G+"""   Dev: @vsin9h """)
 time.sleep(2)
 print("\033[92m 1. Kali Linux ")
 print(" 2. Parrot ")
